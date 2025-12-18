@@ -37,8 +37,6 @@ ds+de/
 ├── requirements.txt
 └── README.md
 
-yaml
-Skopiuj kod
 
 ---
 
